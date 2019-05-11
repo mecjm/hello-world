@@ -1,2 +1,3 @@
 # hello-world
-my first repo
+
+Starting off learning git, github , python and spark(hopefully)!
